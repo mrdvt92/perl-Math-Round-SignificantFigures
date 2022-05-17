@@ -28,9 +28,9 @@ Math::Round::SignificantFigures - Perl package for rounding numbers to a specifi
 =head1 DESCRIPTION
 
 
-Math::Round::SignificantFigures supplies functions that will round numbers in based on significant figures. No functions are exported by default; others are available as described below. "use Math::Round::SignificantFigures qw(:all)" exports all functions.
+Math::Round::SignificantFigures supplies functions that will round numbers based on significant figures. 
 
-This package spans the conversary wheather people perfer to call significant figures or significant digits.  You may export either or both but, I called the package significant figures since that is the page for Wikipedia.
+This package spans the controversy whether people prefer to call significant figures or significant digits.  You may export either or both but, I called the package significant figures since that is the page for Wikipedia.
 
 =head1 FUNCTIONS
 
